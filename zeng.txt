@@ -1,0 +1,236 @@
+卿至如画
+卿至风来白卉香，四序因卿韶景长；
+山川万里皆图画，未及卿颜半分妆！
+
+孤舟渡
+半生风雨孤舟渡，苦尽甘来万象新；
+江畔烟霞留旧梦，山间松竹奏清音；
+云开月照天地朗，潮涌风停气象真；
+放眼天涯归路远，平生浩气贯四方！
+
+天命赋
+时也命也运也催，浮生若梦逐风回；
+长河不尽千秋过，孤月犹怜万古哀；
+志在高天云未散，心随流水去还来；
+任他造化弄人事，我自持樽笑百杯！
+
+人生如梦
+初到人世未识愁，半生荒草空留名；
+回首前尘泪满巾，方知人生为何哭；
+举杯邀月对千愁，前路荆棘难逢步；
+红尘泪眼皆是客，笑我何人可怜心；
+常看人生如戏梦，奈何身在局中迷；
+岁月如风吹过梦，白云苍狗转瞬空；
+浮生若梦空回望，满眼风霜泪未干；
+千年一梦浮生尽，谁与共白发青灯！
+
+浮世叹
+少年初见弓如月，未畏风霜志愈坚；
+东风吹醒凌云气，岁月消磨赤子天；
+山重水复人无迹，此去何时再共欢；
+一别竟成归路杳，梦回犹识旧时颜；
+花开花落空长叹，英雄迟暮美人残；
+光阴似水流如箭，最易蹉跎年少欢；
+世路崎岖悲喜半，浮沉荣枯两相安；
+但将遗恨随流水，不惑方知道自宽！
+
+无极生太极，太极生两仪，两仪生三才，三才生四象，四象生五行，五行生六合，六合生七星，七星生八卦，八卦生九宫，一切归十方。
+
+时也，命也，运也，非吾之所能也！
+
+一命二运三风水，四积阴德五读书，六名七相八敬神，九交贵人十养生！
+
+穷算命运富烧香，颠颠倒倒问阴阳；
+若是做好分内事，何须鬼神赐良方；
+十人烧香九为财，又有几炷真香来；
+神明不缺三炷香，善心善念财自来！
+
+忽有故人心上过，回首山河已入冬；
+今朝若是同淋雪，此生也算共白头；
+白头若是雪可替，世间何来伤心人；
+此时若有卿在侧，何须淋雪作白头；
+白头并非雪可替，相逢已是上上签；
+风吹雪散故人离，陌路只当忆往年；
+此生不吹温柔风。来世不等不归人！
+
+葛根花+枳椇子+陈皮+山楂-15g+15g+6g+6g    车前草+猫须草+金钱草-1:1:1
+
+
+
+Administrator
+
+AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
+
+https://s3.dualstack.us-west-2.amazonaws.com/zhifan2/ytb.html
+
+https://account.lightlayer.net
+
+https://www.onlyoffice.com/download-desktop
+
+https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+
+https://anti-ad.net/adguard.txt
+
+https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+
+Emotn UI：https://app.emotn.com/ui
+
+FinalShell：https://www.hostbuf.com
+
+IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
+
+OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
+
+SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+
+OpenList：https://github.com/OpenListTeam/OpenList/releases
+
+Frpc:https://github.com/luckjiawei/frpc-desktop
+
+Fancyss：https://github.com/hq450/fancyss
+
+USB-Camera：https://github.com/shlllshlll/USBCamera/releases
+
+VNC：https://github.com/gujjwal00/avnc/releases
+
+Seal：https://github.com/JunkFood02/Seal/releases
+
+SmartTube：https://github.com/yuliskov/SmartTube/releases
+
+LocalSend：https://github.com/localsend/localsend/releases
+
+MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
+
+Multi-Calculator：https://github.com/YangDai2003/Multi-Calculator-Android/releases
+
+Onlyoffice：https://github.com/ONLYOFFICE/documents-app-android/releases
+
+V2rayN：https://github.com/2dust/v2rayn/releases
+
+V2rayNG：https://github.com/2dust/v2rayNG/releases
+
+AdGuard：https://github.com/privacy-protection-tools/anti-AD    https://github.com/217heidai/adblockfilters
+
+Shadowrocket：https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblockclash.list
+
+https://whatshub.top/module/YouTubeAd.sgmodule
+
+Windows+Shift+S    Win+R→shell:startup    powershell：irm https://get.activated.win | iex
+
+MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + G    /Library/LaunchDaemons    /Library/LaunchAgents   ifconfig    curl icanhazip.com    defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
+
+185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
+
+apt update -y && apt install -y curl socat wget sudo
+
+
+
+科技lion：
+
+bash <(curl -sL kejilion.sh)
+
+curl -sL https://github.haoss.eu.org/raw.githubusercontent.com/kejilion/sh/main/kejilion.sh -o kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
+
+
+
+3X-ui：
+
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+
+
+
+Hysteria2：
+
+curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
+
+sudo s-hy2
+
+
+
+Frp：
+
+wget https://raw.githubusercontent.com/mvscode/frps-onekey/master/install-frps.sh -O ./install-frps.sh
+chmod 700 ./install-frps.sh
+./install-frps.sh install
+
+nohup ./frps -c frps.ini >/dev/null 2>&1 &
+
+sudo ./install-frps.sh uninstall
+
+
+
+Alist + Openlist：
+
+C:\openlist\openlist.exe server
+
+& "C:\openlist\openlist.exe" server
+
+https://haoss.eu.org/ppx.jpg
+
+<link href="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/alist.css" rel="stylesheet" type="text/css">
+
+<script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/jq.js"></script>
+<div class="st-Container">
+  <a style="display:none" class="st-Menu closed" id="st-Menu" href="javascript:void(0);"></a>
+</div>
+<div class="sw-Hennnyano" id="sw-Hennnyano">
+  <div class="layer body w100" data-depth="0.1"></div>
+  <div class="layer eyes w100" data-depth="0.2"></div>
+</div>
+<script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/js/lib.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/js/parallax.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/js/app.bundle.js"></script>
+<div id="jsi-flying-fish-container" class="fish-container"></div>
+<script src="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/fish.js"></script>
+
+mkdir -p ~/Library/LaunchAgents
+nano ~/Library/LaunchAgents/com.openlist.server.plist
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.openlist.server</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Applications/openlist/openlist</string>
+        <string>server</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Applications/openlist</string>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/openlist.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/tmp/openlist.err</string>
+</dict>
+</plist>
+
+Ctrl + O → Ctrl + X
+
+launchctl load ~/Library/LaunchAgents/com.openlist.server.plist
+launchctl start com.openlist.server
+
+launchctl list | grep openlist
+
+launchctl unload ~/Library/LaunchAgents/com.openlist.server.plist
+rm ~/Library/LaunchAgents/com.openlist.server.plist
+
+
+
+Mirror SiteProxy-5006：
+
+git clone https://github.com/rootoooo/cf.git
+
+cd cf && sudo docker compose up
