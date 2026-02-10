@@ -92,7 +92,6 @@ CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 优漫卡通,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
 全球直播,#genre#
 CCTV-13,http://111.170.157.210:1081/?id=608807423&auth=95d4c11f9a4bc430bf05d5da4ace7ccb85a727691dbbeb0ae33df6490cd1cff4953a1d118a48b8ee4cc27064417a09ba
-CCTV-13 联通,http://221.13.235.23:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 浙江卫视4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
@@ -102,6 +101,7 @@ CCTV-13 联通,http://221.13.235.23:9901/tsfile/live/0013_1.m3u8?key=txiptv&play
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 CTI,http://208.87.242.79/livehttpplay?channel_id=20163
+TVBS,http://iptv.4666888.xyz/iptv2A.php?id=43
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Wion,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
@@ -111,5 +111,6 @@ RT,https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 Global News,https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
 
 
