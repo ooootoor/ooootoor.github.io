@@ -61,15 +61,25 @@ Administrator
 
 AD1456-FREE    CMBE4RS2F2    gofajaxjvcevcbea    742F6D29-0881167F-52698CFA-D8A2F00A-C9B6A77C
 
+vless://2d009d62-579d-47f4-8de9-8ca1cb3e653b@IP:9?mode=gun&security=reality&encryption=none&pbk=umChMSYjDzEZzbdA8twAqSEtSFWVVMg336L4r_r4ywU&fp=chrome&spx=%2F&type=grpc&sni=www.bing.com&sid=143b#HK-TW
+
+https://s3.dualstack.us-east-1.amazonaws.com/zhifan/ytb.html
+
+https://www.zrblog.net/?s=lightlayer
+
 https://account.lightlayer.net
 
 https://www.onlyoffice.com/download-desktop
+
+https://www.饭太硬.com/tv
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 https://anti-ad.net/adguard.txt
 
 https://github.haoss.eu.org/raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+
+https://github.haoss.eu.org/raw.githubusercontent.com/wwb521/live/refs/heads/main/video.json
 
 Emotn UI：https://app.emotn.com/ui
 
@@ -80,6 +90,8 @@ IPTV：https://github.com/ngo5/IPTV?tab=readme-ov-file
 OKTV：https://github.com/FongMi/Release/tree/okjack/apk/release
 
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
+
+AlgerMusic：https://github.com/algerkong/AlgerMusicPlayer/releases
 
 AListLite：https://github.com/LeoHaoVIP/AListLiteAndroid/releases
 
@@ -96,6 +108,10 @@ Seal：https://github.com/JunkFood02/Seal/releases
 SmartTube：https://github.com/yuliskov/SmartTube/releases
 
 LocalSend：https://github.com/localsend/localsend/releases
+
+GhostenPlayer：https://github.com/GhostenEditor/Ghosten-Player/releases
+
+NetxPlayer：https://github.com/anilbeesetti/nextplayer/releases
 
 MaterialFiles：https://github.com/zhanghai/MaterialFiles/releases
 
