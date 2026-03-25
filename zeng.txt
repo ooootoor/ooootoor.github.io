@@ -245,7 +245,7 @@ cd cf && sudo docker compose up
 
 
 
-Doube-ofiii:1.1.6：
+ofiii：
 
 https://hub.docker.com/r/doubebly/doube-ofiii
 
