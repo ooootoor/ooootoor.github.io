@@ -165,31 +165,6 @@ openlist-darwin-arm64.tar.gz
 
 /Applications/Openlist/openlist admin set 你的新密码
 
-sudo nano /Library/LaunchDaemons/com.openlist.server.plist
-
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-    <key>Label</key>
-    <string>com.openlist.server</string>
-    <key>ProgramArguments</key>
-    <array>
-        <string>/Applications/Openlist/openlist</string>
-        <string>server</string>
-    </array>
-    <key>RunAtLoad</key>
-    <true/>
-    <key>KeepAlive</key>
-    <true/>
-</dict>
-</plist>
-
-sudo chown root /Library/LaunchDaemons/com.openlist.server.plist
-sudo launchctl load -w /Library/LaunchDaemons/com.openlist.server.plist
-
-sudo launchctl unload /Library/LaunchDaemons/com.openlist.server.plist
-
 
 
 git clone https://github.com/rootoooo/cf.git
