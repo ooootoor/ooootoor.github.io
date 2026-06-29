@@ -61,6 +61,8 @@ Administrator    1363515-2874-258234-07-730285222-61496868-hsh6-r32t6tb6
 
 https://account.lightlayer.net
 
+https://sankei.mo/z.html
+
 https://www.onlyoffice.com/download-desktop
 
 https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
@@ -88,6 +90,8 @@ DouyinDV：https://cf.haoss.eu.org/oooo/https/github.com/mytv-android/myDV/relea
 Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/releases
 
 Seal：https://cf.haoss.eu.org/oooo/https/github.com/JunkFood02/Seal/releases
+
+SmartTube：https://cf.haoss.eu.org/oooo/https/github.com/yuliskov/SmartTube/releases
 
 USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
@@ -187,6 +191,6 @@ cd cf && sudo docker compose up
 
 https://hub.docker.com/r/doubebly/doube-ofiii
 
-docker run -d --name=doube-ofiii -p 50505:5000 -e MY_OFIII_TOKEN=xxx --restart=always doubebly/doube-ofiii:1.1.6
+docker run -d --name=doube-ofiii -p 50505:5000 -e MY_OFIII_TOKEN=xxx --restart=always doubebly/doube-ofiii:latest
 
 http://xxx:50505/Sub.txt?token=xxx&sd=1080&proxy=true
