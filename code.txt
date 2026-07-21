@@ -36,8 +36,6 @@ Frpc：https://cf.haoss.eu.org/oooo/https/github.com/luckjiawei/frpc-desktop/rel
 
 Frpc：https://cf.haoss.eu.org/oooo/https/github.com/AceDroidX/frp-Android/releases
 
-Termius：https://cf.haoss.eu.org/oooo/https/github.com/alongw/Termius-zh_CN/releases
-
 USB-Camera：https://cf.haoss.eu.org/oooo/https/github.com/shlllshlll/USBCamera/releases
 
 LocalSend：https://cf.haoss.eu.org/oooo/https/github.com/localsend/localsend/releases
@@ -46,11 +44,7 @@ MaterialFiles：https://cf.haoss.eu.org/oooo/https/github.com/zhanghai/MaterialF
 
 Multi-Calculator：https://cf.haoss.eu.org/oooo/https/github.com/YangDai2003/Multi-Calculator-Android/releases
 
-OpenList：https://cf.haoss.eu.org/oooo/https/github.com/OpenListTeam/OpenList/releases
-
 Cloudreve：https://cf.haoss.eu.org/oooo/https/github.com/cloudreve/cloudreve/releases
-
-Telegram-X：https://cf.haoss.eu.org/oooo/https/github.com/TGX-Android/Telegram-X/releases
 
 NewPipe：https://cf.haoss.eu.org/oooo/https/github.com/TeamNewPipe/NewPipe/releases
 
@@ -73,8 +67,6 @@ MAC：Finder    Shift + Command + 3    Shift + Command + 4    Command + Shift + 
 185.199.111.153    185.199.110.153    	185.199.109.153    185.199.108.153
 
 ssh root@IP -p 22
-
-/Applications/openlist server
 
 (crontab -l 2>/dev/null; echo "0 4 28 * * /sbin/reboot") | crontab -
 
@@ -154,3 +146,4 @@ type = "tcp"
 localIP = "127.0.0.1"
 localPort = 5244
 remotePort = XXX
+
