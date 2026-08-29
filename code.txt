@@ -1,6 +1,8 @@
 SyncNext：https://github.haoss.eu.org/raw.githubusercontent.com/qoli/syncnext-api/main/sourcesv3.json
 
-TV：https://github.haoss.eu.org/github.com/lystv/fmapp/blob/ok/apk/release/mobile-arm64_v8a.apk
+TVbox：https://github.haoss.eu.org/raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
+
+OKtv：https://github.haoss.eu.org/github.com/lystv/fmapp/blob/ok/apk/release/mobile-arm64_v8a.apk
 
 AVNC：https://github.haoss.eu.org/github.com/gujjwal00/avnc/releases/download/v3.3.1/AVNC-3.3.1.apk
 
