@@ -96,9 +96,7 @@ bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release
 
 
 
-curl -fsSL https://raw.githubusercontent.com/Xiaofei-Z/s-hy2/main/quick-install.sh | sudo bash
-
-sudo s-hy2
+bash <(curl -L https://github.com/crazypeace/hy2/raw/main/install.sh)
 
 
 
